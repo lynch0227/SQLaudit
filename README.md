@@ -10,4 +10,4 @@ Inception是一个开源系统，每个人或者每个公司都可以自由使�
 平时工作压力比较大，这个工具首先是为了解决问题的，可能还会存在一些没有测试过的代码，有些地方可能也是值得推敲的，还有待优化，本人会不遗余力的维护好，不断的改进，争取成为一个功能更加完善，使用更加友好的系统，同时正在酝酿一些新的更高大上的功能，敬请期待。
 
 文档地址：
-https://github.com/weiyanwei412/inception-document
+https://github.com/lynch0227/inception-document
